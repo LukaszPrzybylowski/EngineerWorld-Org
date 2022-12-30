@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1v6PXs3v/beptNNThHkwgh2cd0o7KPAxrEk1E4PHA9JJ58CqcxnmW9KYd5/2pvgP2K6NYUtJIif/PaJWrwigQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
