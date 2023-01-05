@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngineerWorld.Model", "Engi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngineerWorld.Repository", "EngineerWorld.Repository\EngineerWorld.Repository.csproj", "{AC903533-736A-45D5-A1B5-08C6F374BC28}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "EngineerWorld-UI", "EngineerWorld-UI\EngineerWorld-UI.esproj", "{0CB679DE-F22F-4FA6-8B18-809345DC1B70}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +27,6 @@ Global
 		{AC903533-736A-45D5-A1B5-08C6F374BC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC903533-736A-45D5-A1B5-08C6F374BC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC903533-736A-45D5-A1B5-08C6F374BC28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CB679DE-F22F-4FA6-8B18-809345DC1B70}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
